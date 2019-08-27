@@ -1,5 +1,7 @@
 # stat579-mingsui
 creating a first repo for stat 579
 
--list item 1 
--list item 2 
+*Mingsui Tang  
+*Visit a friend, Watching movies, Getting ready for school
+*structure
+*JMP
